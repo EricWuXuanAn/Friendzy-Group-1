@@ -1,6 +1,6 @@
 package com.example.friendzygroup1
 
 fun main() {
-    println("iiiiiii")
+    println("OK")
     println("Benita test 16:00")
 }
