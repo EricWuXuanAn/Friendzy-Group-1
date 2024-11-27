@@ -1,4 +1,6 @@
 package com.example.friendzygroup1
 
-print("mandy")
-print("mandy")
+fun main(){
+    print("mandy")
+    print("mandy")
+}
